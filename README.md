@@ -39,7 +39,7 @@ Project focused on analyzing touch attributions of a fictional clothing company 
 
 * Number of purchases
 
-  * The **total of purchases were 361
+  * The **total of purchases were 361**
   * The 8 campaigns contributed to the last touches on the purchase page
   * **Weekly newsletter and retargeting ad campaigns** were the ones to contributed the most to the last touches on the purchase page
   * The **sources associated** with these campaigns were email and Facebook. 
@@ -68,7 +68,7 @@ This campaign is also one of the most effective in the matter of last touches, c
 
 The latter seems to be a good campaign to re-invest in. This is because is the third with the highest quantity of last touches and purchases. 
 
-4. **Interview with  cool T shirts founder**
+4. **Interview with founder**
 
 In terms of first touches, this campaign is the most fruitful. Most of the people discover CoolTshirts web site because of this. So, re-investing may lead to more purchases in the coming years if more people know the page.
 
